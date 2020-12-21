@@ -1,5 +1,7 @@
 # Hello-Tensorflow
 
+Here I will be sharing some good resources on deep learning that I have found.
+
 This repo is under construction.
 
 Materials for Tensorflow beginners [Let's GO...](https://tfindiamooc.github.io/)
